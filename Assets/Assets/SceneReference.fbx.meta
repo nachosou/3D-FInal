@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 5bb9cd3d2b1ecf447b9c326ec5658120
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_mat
+    second: {fileID: 2100000, guid: 2b302a4d80ebb3b4193f36c2ca3706bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: alfombra_mat
+    second: {fileID: 2100000, guid: c96d62b386f447e4db8fa9218c33b464, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: altar_mat
+    second: {fileID: 2100000, guid: b6b2df90e6acda240ac09c70e98e613b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: anvil_mat
+    second: {fileID: 2100000, guid: 613a7f8778435364d9e4383e9ebdd4ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barril_mat
+    second: {fileID: 2100000, guid: 4e8fe08ebefe73146b89d60fb02cd915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box_mat
+    second: {fileID: 2100000, guid: 48437b7d9b52efb4aa7d5d6e2b929c7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: broken_flag_mat
+    second: {fileID: 2100000, guid: 205a5051dedbc86489c9925187409e1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candle_mat
+    second: {fileID: 2100000, guid: 61642a1ef9dafb24dac886b5287da60a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corner_floor_mat
+    second: {fileID: 2100000, guid: bd8d0034ab61ff34fb2f59ef4d8ca54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crucifix_mat
+    second: {fileID: 2100000, guid: 1be42a42b2641aa4fbdee9a784509fa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: diag_pillar_mat
+    second: {fileID: 2100000, guid: 937ad7e5cd3bd3c49a9e3884263becda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_mat
+    second: {fileID: 2100000, guid: 13399bac408476b4382cc5b392340006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doorwall_mat
+    second: {fileID: 2100000, guid: d1c2de112b24125448f269806a7c625e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: exterior_stairs_mat
+    second: {fileID: 2100000, guid: 41a0360e19710f8489882d9ebf14e2a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flag_mat
+    second: {fileID: 2100000, guid: c7ebe66efd96a25478ea76f5f2906762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: heroprop_mat
+    second: {fileID: 2100000, guid: ac0b18e25fccad5469711e7c84b161d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_LStairs
+    second: {fileID: 2100000, guid: f8dd063b93f31d348b4624e589694be4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_cornerstairs_mat
+    second: {fileID: 2100000, guid: 415336abe625250479e902c6f4311dc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_stairs_mat
+    second: {fileID: 2100000, guid: f19ef90cbfe038d459394d0381659a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mantel_mat
+    second: {fileID: 2100000, guid: 4d580a045a9ae45439c6a7df9296e9a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesa_mat
+    second: {fileID: 2100000, guid: 0ff5360b5f9d6ba498ece3a999add80f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillarA_mat
+    second: {fileID: 2100000, guid: ba8748eba1878704d89f895aface8da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillarB_mat
+    second: {fileID: 2100000, guid: 9bbd0d06802b69841916fe9eb103f2ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shieldA_mat
+    second: {fileID: 2100000, guid: 2355e27c6480d9443b11fa67ae67c473, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shieldB_mat
+    second: {fileID: 2100000, guid: 5eeb5fdb2dc690848aa6063c15aae863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silla_mat
+    second: {fileID: 2100000, guid: bfc271db8fc1ba1478ac51036786c240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sword_mat
+    second: {fileID: 2100000, guid: d01b33f608c8f564a84a17f0466cd92a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrina_chica_mat
+    second: {fileID: 2100000, guid: 43d5d153b48b12d4c9e2d0d4c6cc35b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrina_grande_mat
+    second: {fileID: 2100000, guid: e3d3d98e829003f49988c9cc8944be2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallA_mat
+    second: {fileID: 2100000, guid: 305c636d4ff604344a8f7941812ef1e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallB_mat
+    second: {fileID: 2100000, guid: c70bfdcb0a5b4d64eb1f149df01cd766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windowed_wall_mat
+    second: {fileID: 2100000, guid: e82fc95209fc5eb45aa736862dee7a46, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
